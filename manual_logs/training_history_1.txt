@@ -711,3 +711,10 @@ c:\Users\PC\anaconda3\envs\longt5\lib\site-packages\transformers\modeling_utils.
 
 
 TrainOutput(global_step=91366, training_loss=0.2038577084595285, metrics={'train_runtime': 32915.9273, 'train_samples_per_second': 5.552, 'train_steps_per_second': 2.776, 'total_flos': 1.001058031632384e+18, 'train_loss': 0.2038577084595285, 'epoch': 0.9999945275347091})
+
+
+
+Average ROUGE Scores on Test Set:
+rouge1: 0.4047
+rouge2: 0.1505
+rougeL: 0.2413
